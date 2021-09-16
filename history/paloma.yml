@@ -1,7 +1,7 @@
 url: https://www.paloma-latelier.be
-status: up
-code: 200
-responseTime: 4532
-lastUpdated: 2021-09-15T23:13:58.866Z
+status: down
+code: 503
+responseTime: 444
+lastUpdated: 2021-09-16T16:46:59.796Z
 startTime: Mon Dec 14 2020 06:05:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
